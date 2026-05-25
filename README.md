@@ -48,6 +48,11 @@ $$x(\theta) = r \cos(\theta) + \sqrt{L^2 - (r \sin(\theta) + a)^2}$$
 ### Velocity & Acceleration
 Taking the first and second time derivatives of the position equation with respect to time $t$ yields the velocity $v$ and acceleration $a$ profiles, where angular velocity $\omega = \frac{d\theta}{dt}$ and angular acceleration $\alpha = \frac{d\omega}{dt}$. The repository includes the computational scripts and analysis tables used to plot these dynamic profiles over a full rotation.
 
+
+##
+
+[!cad_model]
+
 ## 📁 Repository Structure
 ```text
 ├── CAD_Models/          # SolidWorks parts and assembly files (.SLDPRT, .SLDASM)
