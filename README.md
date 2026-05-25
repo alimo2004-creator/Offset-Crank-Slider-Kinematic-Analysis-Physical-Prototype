@@ -50,7 +50,7 @@ Taking the first and second time derivatives of the position equation with respe
 
 
 ##
-[📄 Read the Full Engineering Report (PDF)](Mechanics of machine proj.pdf)
+[📄 Read the Full Engineering Report (PDF)](Mechanicsofmachineproj.pdf)
 [!cad_model](image.png)
 
 ## 📁 Repository Structure
