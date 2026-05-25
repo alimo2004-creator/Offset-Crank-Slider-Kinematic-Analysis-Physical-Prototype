@@ -50,8 +50,8 @@ Taking the first and second time derivatives of the position equation with respe
 
 
 ##
-
-[!cad_model]
+[📄 Read the Full Engineering Report (PDF)](Documentation/Offset_Crank_Slider_Report.pdf)
+[!cad_model](image.png)
 
 ## 📁 Repository Structure
 ```text
